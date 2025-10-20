@@ -1,0 +1,9 @@
+target,age,bmi,avg_glucose,sex,smoker,region
+1,45,31.5,120,female,no,north
+0,32,24.2,95,male,yes,south
+1,60,29.0,140,female,no,west
+0,28,21.0,85,male,no,north
+1,50,27.5,110,female,no,south
+0,40,25.0,100,male,yes,west
+1,55,33.2,130,female,no,north
+0,35,22.1,90,male,no,west
